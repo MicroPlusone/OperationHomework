@@ -2,4 +2,4 @@
 
 My shameless program..
 
-Contains fake codes.
+I hate Operation Research!
